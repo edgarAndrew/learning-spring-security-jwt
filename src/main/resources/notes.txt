@@ -1,0 +1,1 @@
+do, docker-compose up , to start database and pgadmin as a docker container
